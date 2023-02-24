@@ -1,0 +1,12 @@
+{
+  "name": "multitheadWebWorks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "dependencies": {
+    "browser-sync": "2.27.11"
+  }
+}
